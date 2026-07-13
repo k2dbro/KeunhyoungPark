@@ -37,4 +37,4 @@ Full list: [Publications](https://github.com/k2dbro/KeunhyoungPark/wiki/Publicat
 
 ## 📫 Contact
 
-**tugurun@gmail.com** — I'm happy to discuss research collaboration, SHM/3DCP questions, or faculty opportunities.
+**ken.keunhyoung.park@gmail.com** — I'm happy to discuss research collaboration, SHM/3DCP questions, or faculty opportunities.
