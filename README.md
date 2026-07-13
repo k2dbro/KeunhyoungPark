@@ -32,7 +32,7 @@ Full list: [Publications](https://github.com/k2dbro/KeunhyoungPark/wiki/Publicat
 
 ## 📂 In this repository
 
-- [`CV.pdf`](https://github.com/k2dbro/KeunhyoungPark/raw/main/CV_KeunhyoungPark.pdf) — current curriculum vitae
+- [CV.pdf](https://github.com/k2dbro/KeunhyoungPark/raw/main/CV_KeunhyoungPark.pdf) — current curriculum vitae
 - [Wiki](https://github.com/k2dbro/KeunhyoungPark/wiki) — research, publications, projects, and teaching pages
 
 ## 📫 Contact
